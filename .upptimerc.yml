@@ -6,7 +6,7 @@ sites:
   - name: ScannedInAvian
     url: https://www.scannedinavian.com
   - name: IPv6 test
-    url: scannedinavian.com
+    url: whiro.scannedinavian.com
     port: 80
     check: "tcp-ping"
     ipv6: true
