@@ -8,11 +8,13 @@ sites:
   - name: ScannedInAvian
     url: https://www.scannedinavian.com
     ipv6: true
+    verbose: true
   - name: IPv6 test
     url: whiro.scannedinavian.com
     port: 80
     check: "tcp-ping"
     ipv6: true
+    verbose: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
