@@ -5,6 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: ScannedInAvian
     url: https://www.scannedinavian.com
+  - name: ScannedInAvian
+    url: https://www.scannedinavian.com
+    ipv6: true
   - name: IPv6 test
     url: whiro.scannedinavian.com
     port: 80
